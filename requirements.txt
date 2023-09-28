@@ -1,7 +1,0 @@
-flask
-fastapi
-uvicorn
-json
-flask_mail
-datetime
-flask_sqlalchemy
