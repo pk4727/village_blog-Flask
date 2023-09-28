@@ -1,6 +1,6 @@
-Flask==1.1.2
 Nixpacks
 gunicorn==20.0.4
+Flask==1.1.2
 Jinja2==2.11.3
 flask_sqlalchemy
 datetime
