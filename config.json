@@ -1,0 +1,15 @@
+{
+    "parameters":{
+        "local_server":"True",
+        "production_uri":"mysql://root:4bzF0Z4kyML4KHXTQ6yN@containers-us-west-157.railway.app:7861/railway",
+        "blog_title":"Village Life",
+        "blog_name":"Village Life",
+        "blog_heading":"Welcome to Village Life",
+        "blog_subheading":"If you want to live life happily then go through village life !",
+        "copyright": "copyright by Farmers of healthy Village !",
+        "gmail_user":"webworkingformail@gmail.com",
+        "gmail_pass":"fjhxzdethuvwcpsi",
+        "no_of_posts":4,
+        "file_location":"D:\\code\\web_devlopment\\Flask\\flask1\\static\\assets"
+    }
+}
