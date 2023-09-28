@@ -220,5 +220,5 @@ def contact():
     return render_template("contact.html", parameters = parameters,)
 
 # for run  the url :- ----------------------------------------------------------------
-
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
