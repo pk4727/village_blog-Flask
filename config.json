@@ -1,4 +1,16 @@
 {
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "numReplicas": 1,
+    "sleepApplication": false,
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  }
+}
+{
     "parameters":{
         "local_server":"True",
         "production_uri":"mysql://root:4bzF0Z4kyML4KHXTQ6yN@containers-us-west-157.railway.app:7861/railway",
