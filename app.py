@@ -6,7 +6,7 @@ import json
 import math
 import os
 
-with open('\config.json','r') as config:
+with open('config.json','r') as config:
     parameters = json.load(config)["parameters"]
 
 local_server = True
