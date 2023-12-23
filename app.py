@@ -6,7 +6,7 @@ import json
 import math
 import os
 
-with open('D:\\code\\web_devlopment\\Flask\\flask1\\config.json','r') as config:
+with open('\flask1\config.json','r') as config:
     parameters = json.load(config)["parameters"]
 
 local_server = True
